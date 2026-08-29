@@ -1,0 +1,2 @@
+{"userId": 1, "storeId": "store4", "name": "Upstate", "clicked": "true"}
+{"userId": 5, "storeId": "store5", "name": "Del Frisco's Double Eagle Steakhouse", "clicked": "false"}
