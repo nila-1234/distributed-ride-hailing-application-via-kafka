@@ -29,3 +29,16 @@ replay_pid*
 *trace_task3
 *trace_task2
 *trace_bonus
+.DS_Store
+
+# Runner and submitter files
+runner.sh
+submitter_task1
+submitter_task2
+submitter_task3
+submitter_bonus
+deploy_task2
+deploy_task3
+deploy_bonus
+references
+test_trace
